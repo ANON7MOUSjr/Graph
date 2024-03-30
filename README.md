@@ -1,1 +1,1 @@
-All standard graph algo and problems
+All standard graphs algo and problems
